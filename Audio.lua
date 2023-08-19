@@ -1,1 +1,1 @@
-game.Players.LocalPlayers.Humanoid:Kick("All in this sv are 14 y/o im quiting of this shit sorry guys if u want the script just dm me")
+game.Players.LocalPlayer:Kick("All in this sv are 14 y/o im quiting of this shit sorry guys if u want the script just dm me")
